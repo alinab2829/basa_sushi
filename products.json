@@ -30,7 +30,7 @@
     "price": 250,
     "image": "https://raw.githubusercontent.com/USERNAME/sushi-api/main/images/chuka.jpg",
     "category": "rolls",
-    "description": "Салат чука, огурец, кунжут."
+    "description": "Салат чука, огурец, креветка."
   },
   {
     "id": 5,
@@ -48,14 +48,7 @@
     "category": "rolls",
     "description": "Креветка, огурец, сливочный сыр."
   },
-  {
-    "id": 7,
-    "title": "Запечённый ролл",
-    "price": 500,
-    "image": "https://raw.githubusercontent.com/USERNAME/sushi-api/main/images/baked_roll.jpg",
-    "category": "rolls",
-    "description": "Запечённый ролл с угрём и сыром."
-  },
+ 
   {
     "id": 8,
     "title": "Гункан с лососем",
@@ -76,7 +69,7 @@
     "id": 10,
     "title": "Суши с лососем",
     "price": 120,
-    "image": "https://raw.githubusercontent.com/USERNAME/sushi-api/main/images/salmon_sushi.jpg",
+    "image": "https://raw.githubusercontent.com/USERNAME/sushi-api/main/images/gunkan_ikura.jpg",
     "category": "sushi",
     "description": "Классическое суши с лососем."
   },
