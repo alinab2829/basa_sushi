@@ -12,7 +12,7 @@
     "id": 2,
     "title": "Калифорния",
     "price": 390,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/california.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/california.png",
     "category": "rolls",
     "description": "Краб, авокадо, огурец, кунжут."
   },
@@ -20,7 +20,7 @@
     "id": 3,
     "title": "Дракон",
     "price": 520,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/dragon.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/dragon.png",
     "category": "rolls",
     "description": "Угорь, омлет, огурец, авокадо."
   },
@@ -28,7 +28,7 @@
     "id": 4,
     "title": "Чука Маки",
     "price": 250,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/chuka.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/chuka.png",
     "category": "rolls",
     "description": "Салат чука, огурец, креветка."
   },
@@ -36,7 +36,7 @@
     "id": 5,
     "title": "Темпура Ролл",
     "price": 480,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/tempura.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/tempura.png",
     "category": "rolls",
     "description": "Горячий ролл в темпуре."
   },
@@ -44,7 +44,7 @@
     "id": 6,
     "title": "Ролл с креветкой",
     "price": 430,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/shrimp_roll.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/shrimp_roll.png",
     "category": "rolls",
     "description": "Креветка, огурец, сливочный сыр."
   },
@@ -53,7 +53,7 @@
     "id": 8,
     "title": "Гункан с лососем",
     "price": 160,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/gunkan_salmon.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/gunkan_salmon.png",
     "category": "sushi",
     "description": "Рубленный лосось с соусом."
   },
@@ -61,7 +61,7 @@
     "id": 9,
     "title": "Гункан с икрой",
     "price": 180,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/gunkan_ikura.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/gunkan_ikura.png",
     "category": "sushi",
     "description": "Икра лосося."
   },
@@ -69,7 +69,7 @@
     "id": 10,
     "title": "Суши с лососем",
     "price": 120,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/gunkan_ikura.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/gunkan_ikura.png",
     "category": "sushi",
     "description": "Классическое суши с лососем."
   },
@@ -77,7 +77,7 @@
     "id": 11,
     "title": "Суши с тунцом",
     "price": 130,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/tuna_sushi.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/tuna_sushi.png",
     "category": "sushi",
     "description": "Классическое суши с тунцом."
   },
@@ -85,7 +85,7 @@
     "id": 12,
     "title": "Суши с угрём",
     "price": 160,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/unagi_sushi.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/unagi_sushi.png",
     "category": "sushi",
     "description": "Суши с угрём под соусом унаги."
   },
@@ -93,7 +93,7 @@
     "id": 13,
     "title": "Суши с креветкой",
     "price": 140,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/ebi_sushi.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/ebi_sushi.png",
     "category": "sushi",
     "description": "Традиционные суши с креветкой."
   },
@@ -101,7 +101,7 @@
     "id": 14,
     "title": "Урамаки с угрём",
     "price": 510,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/uramaki_unagi.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/uramaki_unagi.png",
     "category": "rolls",
     "description": "Ролл с угрём, огурцом и кунжутом."
   },
@@ -109,7 +109,7 @@
     "id": 15,
     "title": "Урамаки с тунцом",
     "price": 430,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/uramaki_tuna.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/uramaki_tuna.png",
     "category": "rolls",
     "description": "Тунец, огурец, сыр."
   },
@@ -117,7 +117,7 @@
     "id": 16,
     "title": "Футомаки",
     "price": 490,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/futomaki.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/futomaki.png",
     "category": "rolls",
     "description": "Большой ролл с лососем, огурцом и омлетом."
   },
@@ -125,7 +125,7 @@
     "id": 17,
     "title": "Ролл Веган",
     "price": 300,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/vegan_roll.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/vegan_roll.png",
     "category": "rolls",
     "description": "Авокадо, огурец, тофу."
   },
@@ -133,7 +133,7 @@
     "id": 18,
     "title": "Сяке Маки",
     "price": 240,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/sake_maki.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/sake_maki.png",
     "category": "rolls",
     "description": "Лосось и рис, классический маки."
   },
@@ -141,7 +141,7 @@
     "id": 19,
     "title": "Унаги Маки",
     "price": 290,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/unagi_maki.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/unagi_maki.png",
     "category": "rolls",
     "description": "Угорь, огурец, кунжут."
   },
@@ -149,7 +149,7 @@
     "id": 20,
     "title": "Спайси ролл",
     "price": 445,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/spicy_roll.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/spicy_roll.png",
     "category": "rolls",
     "description": "Острая намазка с лососем."
   },
@@ -160,7 +160,7 @@
     "id": 21,
     "title": "Зелёный чай",
     "price": 120,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/green_tea.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/green_tea.png",
     "category": "drinks",
     "description": "Холодный зелёный чай."
   },
@@ -176,7 +176,7 @@
     "id": 23,
     "title": "Фанта",
     "price": 150,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/fanta.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/fanta.png",
     "category": "drinks",
     "description": "Фанта 0.5 л."
   },
@@ -184,7 +184,7 @@
     "id": 24,
     "title": "Спрайт",
     "price": 150,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/sprite.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/sprite.png",
     "category": "drinks",
     "description": "Спрайт 0.5 л."
   },
@@ -192,18 +192,18 @@
     "id": 25,
     "title": "Айс-латте",
        "price": 200,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/ice_latte.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/ice_latte.png",
     "category": "drinks",
     "description": "Холодный латте со льдом."
   },
 
-  /* 5 десертов */
+
 
   {
     "id": 26,
     "title": "Моти клубничный",
     "price": 230,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/mochi_strawberry.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/mochi_strawberry.png",
     "category": "desserts",
     "description": "Японский рисовый десерт с клубникой."
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "title": "Моти манговый",
     "price": 230,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/mochi_mango.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/mochi_mango.png",
     "category": "desserts",
     "description": "Моти с манго."
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "title": "Тайяки",
     "price": 260,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/taiyaki.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/taiyaki.png",
     "category": "desserts",
     "description": "Фигурный ванильный вафельный пирожок."
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "title": "Ролл сладкий",
     "price": 300,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/sweet_roll.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/sweet_roll.png",
     "category": "desserts",
     "description": "Сладкий ролл с фруктами и кремом."
   },
@@ -235,7 +235,7 @@
     "id": 30,
     "title": "Сырники японские",
     "price": 350,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/japan_cheesecake.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/japan_cheesecake.png",
     "category": "desserts",
     "description": "Воздушный сырный десерт."
   },
@@ -246,7 +246,7 @@
     "id": 31,
     "title": "Соевый соус",
     "price": 30,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/soy_sauce.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/soy_sauce.png",
     "category": "extra",
     "description": "Порция 30 г."
   },
@@ -254,7 +254,7 @@
     "id": 32,
     "title": "Имбирь маринованный",
     "price": 30,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/ginger.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/ginger.png",
     "category": "extra",
     "description": "Порция 20 г."
   },
@@ -262,7 +262,7 @@
     "id": 33,
     "title": "Васаби",
     "price": 30,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/wasabi.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/wasabi.png",
     "category": "extra",
     "description": "Порция 10 г."
   },
@@ -270,7 +270,7 @@
     "id": 34,
     "title": "Палочки",
     "price": 15,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/chopsticks.jpg",
+    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/chopsticks.png",
     "category": "extra",
     "description": "Одноразовые бамбуковые палочки."
   }
