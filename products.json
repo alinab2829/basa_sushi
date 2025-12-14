@@ -105,14 +105,7 @@
     "category": "rolls",
     "description": "Ролл с угрём, огурцом и кунжутом."
   },
-  {
-    "id": 15,
-    "title": "Урамаки с тунцом",
-    "price": 430,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/uramaki_tuna.png",
-    "category": "rolls",
-    "description": "Тунец, огурец, сыр."
-  },
+ 
   {
     "id": 16,
     "title": "Футомаки",
@@ -223,14 +216,7 @@
     "category": "desserts",
     "description": "Фигурный ванильный вафельный пирожок."
   },
-  {
-    "id": 29,
-    "title": "Ролл сладкий",
-    "price": 300,
-    "image": "https://raw.githubusercontent.com/alinab2829/basa_sushi/main/images/sweet_roll.png",
-    "category": "desserts",
-    "description": "Сладкий ролл с фруктами и кремом."
-  },
+
   {
     "id": 30,
     "title": "Сырники японские",
